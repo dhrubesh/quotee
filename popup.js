@@ -6,11 +6,11 @@
 			'{"id":4,"sen":"Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.","author":"  –Robert Frost"},' +
 			'{"id":5,"sen":"I attribute my success to this: I never gave or took any excuse."," –Florence Nightingale"},' +
 			'{"id":6,"sen":"You miss 100% of the shots you don’t take.","author":" –Wayne Gretzky"},' +
-			'{"id":7,"sen":"I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.","author":" –Michael Jordan"},' +
+			'{"id":7,"sen":"Every child is an artist.  The problem is how to remain an artist once he grows up","author":" –Pablo Picasso"},' +
 			'{"id":8,"sen":"The most difficult thing is the decision to act, the rest is merely tenacity.","author":" –Amelia Earhart"},' +
 			'{"id":9,"sen":"Every strike brings me closer to the next home run.","author":" –Babe Ruthn"},' +
 			'{"id":10,"sen":"Definiteness of purpose is the starting point of all achievement.","author":" –W. Clement Stone"},' +
-			'{"id":11,"sen":"Life isn't about getting and having, it's about giving and being.","author":" –Kevin Kruse"},' +
+			'{"id":11,"sen":"Either you run the day, or the day runs you.","author":" –Jim Rohn"},' +
 			'{"id":12,"sen":"Life is what happens to you while you’re busy making other plans.","author":" –John Lennon"},' +
 			'{"id":13,"sen":" We become what we think about.","author":" –Earl Nightingale"},' +
 			'{"id":14,"sen":"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.","author":" –Mark Twain"},' +
