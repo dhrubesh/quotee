@@ -34,3 +34,6 @@ document.addEventListener('DOMContentLoaded', function () {
   document.querySelector('lol').addEventListener('click', clickHandler);
   main();
 });
+function clickHandler(e) {
+  setTimeout(main, 1000);
+}
